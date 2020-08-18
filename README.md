@@ -1,8 +1,7 @@
 # Hi, I'm Mike
 
 <img src="https://github.com/shootygroove/shootygroove/blob/master/2020-08-18-063418.jpg?raw=true" alt="banner that shows a pic of me having no idea what I got myself in to">
-<!--
-**shootygroove/shootygroove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a programmer that works mainly with graphic automation software. I would like to exit this field of work and enter into the world of web development.
 
 Here are some ideas to get you started:
 
