@@ -1,6 +1,6 @@
 # Hi, I'm Mike
 
-I am currently a programmer that works mainly with graphic automation software. Trying my best to learn web development.
+I am currently a programmer that works mainly with graphic automation software. Trying my best to learn web development and coding. Having fun doing it.
 
 ## What I am currently working on.
 * The Oden Project - Web Development 101
