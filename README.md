@@ -4,15 +4,21 @@ I am currently a programmer that works mainly with graphic automation software. 
 
 ## What I am currently working on.
 * The Oden Project - Web Development 101
-  * FreeCodeCamp - Responsive Web Design Certification
-    * Basic HTML and HTML5
-    * Basic CSS
-    * Applied Accessibility
-    * Responsive Web Design Principles
-    * CSS Flexbox
-    * CSS Grid
-    * Responsive Web Design Projects
-  * W3schools - CSS Tutorial
+  * The Basics
+  * Installations
+  * Git Basics
+  * The Front End
+    * FreeCodeCamp - Responsive Web Design Certification
+      * Basic HTML and HTML5
+      * Basic CSS
+      * Applied Accessibility
+      * Responsive Web Design Principles
+      * CSS Flexbox
+      * CSS Grid
+      * Responsive Web Design Projects
+   * JavaScript Basics
+   * The Back End
+   * Tying it all Together
   
 * Udemy - The Complete Web Developer in 2020: Zero to Mastery
   * Course Content
