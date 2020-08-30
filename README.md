@@ -1,6 +1,6 @@
 # Hi, I'm Mike
 
-I am currently a programmer that works mainly with graphic automation software. Trying my best to learn web development and coding. Having fun doing it.
+I am currently a programmer that works mainly with graphic automation software. Trying my best to learn web development and coding. Having fun doing it. Thought this might be a good place to document how I am going about it.
 
 ## What I am currently working on.
 * The Oden Project - Web Development 101
@@ -49,3 +49,6 @@ I am currently a programmer that works mainly with graphic automation software. 
     * Databases
     * Final Project: SmartBrain Back-End -- Database
     * Production + Deployment
+    
+* Docker
+  * Docker 101 Tutorial
